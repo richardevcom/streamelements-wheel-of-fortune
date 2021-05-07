@@ -1,0 +1,25 @@
+#container {
+	position: relative;
+}
+#arrow {
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	margin-top: -250px;
+  	margin-left: -250px;
+    background-image: url({background});
+    background-repeat: no-repeat;   /* Ensure that background does not repeat */
+    background-position: center;    /* Ensure image is centred */
+    background-size: contain;
+    width: 500px;                   /* Width and height should at least be the same as the canvas */
+    height: 500px;
+  z-index: 666;
+}
+
+#canvas{
+  	top: 0;
+  	left: 0;
+      width: 500px;                   /* Width and height should at least be the same as the canvas */
+    height: 500px;
+  z-index: 100;
+}
