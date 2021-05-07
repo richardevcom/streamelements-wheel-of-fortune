@@ -1,6 +1,8 @@
 # Wheel of Fortune
 Wheel of fortune for _Stream Elements_
 
+![Preview](https://i.ibb.co/12dh8Hr/ezgif-com-gif-maker.gif)
+
 # Install
 1. Go to `My Overlays` > `Create Blank Overlay`
 2. Create `Custom` > `Custom Widget`
