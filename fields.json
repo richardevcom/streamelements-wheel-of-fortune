@@ -1,0 +1,135 @@
+{
+  "spinCommand": {
+    "type": "text",
+    "label": "Spin Command",
+    "value": "!spin"
+  },
+  "segments": {
+    "type": "text",
+    "label": "Segments, comma separated",
+    "value": "100,200,300,400,500"
+  },
+  "segmentColors": {
+    "type": "text",
+    "label": "Segment colors, comma separated",
+    "value": "#ff0000,#00ff00,#ffffff,#123123,#421221"
+  },
+  "segmentWeights": {
+    "type": "text",
+    "label": "Segment weights, comma separated",
+    "value": "5,4,3,2,1"
+  },
+  "displayImage": {
+    "type": "checkbox",
+    "label": "Display Image",
+    "value": false
+  },
+  "wheelImage": {
+    "type": "image-input",
+    "label": "Wheel image image(instead of text)",
+    "value": ""
+  },
+  "wheelSize": {
+    "type": "number",
+    "label": "Wheel size",
+    "value": 412
+  },
+  "innerRadius": {
+    "type": "number",
+    "label": "Inner radius size",
+    "value": 70
+  },
+  "pins": {
+    "type": "number",
+    "label": "Pins count",
+    "value": 30
+  },
+  "background": {
+    "type": "image-input",
+    "label": "Background image",
+    "value": "https://cdn.streamelements.com/uploads/04d60fdc-a64e-4a72-ace0-8bcee7c51713.png"
+  },
+  "textSize": {
+    "type": "number",
+    "label": "Text Size",
+    "value": 20
+  },
+  "spins": {
+    "type": "number",
+    "label": "Number of spins",
+    "value": 5
+  },
+  "duration": {
+    "type": "slider",
+    "label": "Duration (s)",
+    "value": 3,
+    "min": 0,
+    "max": 10,
+    "steps": 1
+  },
+  "privileges": {
+    "type": "dropdown",
+    "label": "Who can participate:",
+    "value": "everybody",
+    "options": {
+      "everybody": "Everybody",
+      "subs": "Subs",
+      "vips": "VIPS",
+      "mods": "Mods",
+      "broadcaster": "Broadcaster"
+    }
+  },
+  "listener": {
+    "type": "dropdown",
+    "options": {
+      "none": "None (command only)",
+      "tip-latest": "Tip",
+      "cheer-latest": "Cheer"
+    },
+    "value": "none"
+  },
+  "minAmount": {
+    "type": "number",
+    "label": "Minimum amount",
+    "step": 0.01,
+    "value": 100
+  },
+  "modifierFormula": {
+    "type": "text",
+    "readonly": "readonly",
+    "label": "Modifier formula (read only)",
+    "value": "1/options_count*(1+(keyword_modifier+tip_amount*amount_modifier)/100)"
+  },
+  "amountModifier": {
+    "type": "number",
+    "label": "Amount modifier",
+    "step": 0.01,
+    "value": 2
+  },
+  "keywordModifier": {
+    "type": "number",
+    "label": "Keyword modifier",
+    "value": 2
+  },
+  "maxChance": {
+    "type": "number",
+    "label": "Max chance for rigged result %",
+    "value": 50
+  },
+  "widgetName": {
+    "type": "hidden",
+    "value": "Wheel of Fortune"
+  },
+  "widgetAuthor": {
+    "type": "hidden",
+    "value": "lx"
+  },
+  "widgetVersion": {
+    "type": "hidden",
+    "value": "1.0"
+  },
+  "widgetUpdateUrl": {
+    "type": "hidden",
+    "value": "https://github.com/StreamElements/widgets/blob/master/WheelOfFortune/"
+  }
+}
