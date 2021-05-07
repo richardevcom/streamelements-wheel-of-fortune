@@ -1,5 +1,5 @@
 # Wheel of Fortune
-Wheel of fortune for _Stream Elements_
+Wheel of fortune for _Stream Elements_ cloned & upgraded from ![official StreamElements widget](https://github.com/StreamElements/widgets/tree/master/WheelOfFortune).
 
 ![Preview](https://i.ibb.co/12dh8Hr/ezgif-com-gif-maker.gif)
 
