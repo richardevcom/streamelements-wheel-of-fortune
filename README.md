@@ -3,7 +3,7 @@ Wheel of fortune for _Stream Elements_ cloned & upgraded from ![official StreamE
 
 ![Preview](https://i.ibb.co/GMcNpR7/ezgif-com-gif-maker-1.gif)
 
-If you want to get Phasmophobia event tracker widget like in preview, you can get it ![here](https://github.com/richardevcom/streamelements-phasmophobia-event-tracker).
+If you want to get **Phasmophobia event tracker widget** like in preview, you can get it ![here](https://github.com/richardevcom/streamelements-phasmophobia-event-tracker).
 
 # Install
 1. Go to `My Overlays` > `Create Blank Overlay`
