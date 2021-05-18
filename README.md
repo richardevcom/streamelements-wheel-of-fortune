@@ -1,7 +1,7 @@
 # Wheel of Fortune
 Wheel of fortune for _Stream Elements_ cloned & upgraded from ![official StreamElements widget](https://github.com/StreamElements/widgets/tree/master/WheelOfFortune).
 
-![Preview](https://i.ibb.co/12dh8Hr/ezgif-com-gif-maker.gif)
+![Preview](https://i.ibb.co/GMcNpR7/ezgif-com-gif-maker-1.gif)
 
 # Install
 1. Go to `My Overlays` > `Create Blank Overlay`
