@@ -2,6 +2,7 @@
 Wheel of fortune for _Stream Elements_ cloned & upgraded from ![official StreamElements widget](https://github.com/StreamElements/widgets/tree/master/WheelOfFortune).
 
 ![Preview](https://i.ibb.co/GMcNpR7/ezgif-com-gif-maker-1.gif)
+
 If you want to get Phasmophobia event tracker widget like in preview, you can get it ![here](https://github.com/richardevcom/streamelements-phasmophobia-event-tracker).
 
 # Install
